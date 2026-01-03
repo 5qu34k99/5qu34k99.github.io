@@ -108,6 +108,11 @@ main section:nth-child(even) {
     background-color: #0d0d0d;
 }
 
+p {
+	padding: 20px;
+	font-family: 'Roboto Mono', monospace;
+}
+
 #links {
 	background: linear-gradient(105deg, rgba(228,231,219,.6) 10%, rgba(177,201,233,.6) 15%, rgba(177,209,233,.9) 25%, rgba(143,220,235,.5) 35%, rgba(142,211,238,.8) 40%, rgba(143,196,235,.6) 45%, rgba(163,176,228,.4) 65%, rgba(177,201,233,.6) 75%, rgba(238,241,223,.4) 90%),
 	linear-gradient(90deg, rgba(228,231,219,.7) 10%, rgba(177,201,233,.7) 15%, rgba(177,209,233,.5) 25%, rgba(143,220,235,.7) 35%, rgba(142,211,238,.7) 40%, rgba(143,196,235,.7) 45%, rgba(163,176,228,.3) 65%, rgba(177,201,233,.6) 75%, rgba(238,241,223,.7) 90%),

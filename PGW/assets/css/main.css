@@ -26,6 +26,24 @@ body {
 }
 
 
+a:link {
+	color:#fafafa;
+	text-decoration:none;
+}
+
+a:visited {
+	color:#fafafa;
+}
+	
+a:hover {
+	color:#fff954;
+}
+
+a:active {
+	color:#fff954;
+}
+
+
 #container {
     clear:both;
 	width:100%;
@@ -137,7 +155,7 @@ p {
 	font-family: 'Roboto Mono', monospace;
 }
 
-p a {
+p a{
 	text-decoration:underline;
 }
 
@@ -246,22 +264,4 @@ footer {
     text-align: center;
 	padding-top: 30px;
 	background: linear-gradient(45deg,  rgba(16,16,16,.4) 15%, rgba(0,7,93,.4) 35%, rgba(31,7,85,.4) 65%, rgba(16,16,16,.4) 85%);
-}
-
-
-a:link {
-	color:#fafafa;
-	text-decoration:none;
-}
-
-a:visited {
-	color:#fafafa;
-}
-	
-a:hover {
-	color:#fff954;
-}
-
-a:active {
-	color:#fff954;
 }

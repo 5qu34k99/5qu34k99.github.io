@@ -166,6 +166,7 @@ p a {
 
 figcaption {
 	font-family: 'Roboto Mono', monospace;
+	padding: 5px;
 }
 
 
@@ -181,8 +182,7 @@ figcaption {
 	min-width:-webkit-fit-content;
 	min-width:-moz-fit-content;
 	min-width:fit-content;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding: 10px;
 	text-align: center;
 	background-color: #f3f3f3;
 	margin: 15px;
@@ -230,7 +230,7 @@ figcaption {
 #contact {
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
-	padding: 9vh;
+	padding: 20px;
 }
 
 

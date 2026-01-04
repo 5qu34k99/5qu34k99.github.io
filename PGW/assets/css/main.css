@@ -146,8 +146,8 @@ h2 , h3{
 p {
 	padding: 20px;
 	font-family: 'Roboto Mono', monospace;
-	font-weight: 0, 500;
-	line-height: 1.5;
+	font-weight: 500;
+	line-height: 2;
 }
 
 #maps p a{

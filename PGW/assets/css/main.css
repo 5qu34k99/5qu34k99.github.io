@@ -25,9 +25,12 @@ body {
 	margin: 0;
 }
 
+a {
+  text-shadow: 2px 2px 2px  rgba(40, 40, 40, 0.15);
+}
 
 a:link {
-	color:rgb(238, 230, 10);
+	color:rgb(251, 244, 29);
 	text-decoration:none;
 }
 
@@ -85,7 +88,7 @@ header h1 {
     font-family: 'Roboto', sans-serif;
 	font-size: clamp(20px, 4vw, 40px);
   	white-space: nowrap; 
-    text-shadow: 3px 2px 2px rgb(61, 61, 61);
+    text-shadow: 3px 2px 2px rgb(60, 60, 60);
 	font-weight: 500;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -208,7 +211,7 @@ p {
 
 figcaption {
 	font-family: 'Roboto Mono', monospace;
-	font-size: 88%;
+	font-size: 85%;
 	font-weight: 500;
 	line-height: 2;
 	padding: 2% 5% 5% 3%;
